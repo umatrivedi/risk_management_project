@@ -103,9 +103,9 @@ print(f"Monte Carlo VaR: {monte_carlo_var}")
 ```
 
 # Future Work
-Implement data fetching for Bonds and Swaps. This requires access to Bloomberg / Reuters Data 
-Extend the system to handle additional risk metrics (e.g., Expected Shortfall).
-Integrate advanced pricing libraries for Bonds and Swaps.
+-Implement data fetching for Bonds and Swaps. This requires access to Bloomberg / Reuters Data 
+-Extend the system to handle additional risk metrics (e.g., Expected Shortfall).
+-Integrate advanced pricing libraries for Bonds and Swaps.
 
 # License
 This project is licensed under the MIT License
